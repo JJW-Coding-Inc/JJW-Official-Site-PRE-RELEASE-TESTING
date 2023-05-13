@@ -11,3 +11,6 @@ I've also added another website to the archive.
 Redone the website, added back the gradient, redid the entire page.
 
 Completely fixed up css, and made the website look more stylish.
+
+# Updaye 1.2 - By William Lawson
+Redone the archive page, changed colours and added some css to examples.
