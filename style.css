@@ -60,7 +60,7 @@ hr {
     justify-content: space-around;
 }
 .background{
-    background: radial-gradient(rgb(38, 184, 87), #1cc59b);
+    background: radial-gradient(rgb(37, 163, 79), #146b55);
     border-radius: 12px;
     padding-bottom: 10px;
 }
@@ -112,7 +112,7 @@ hr {
     width: 125px;
 }
 .footer{
-    background: #1cc568;
+    background: #126844;
     color: #ffffff;
     font-size: 14px;
     padding: 10px 0 20px;
