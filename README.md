@@ -12,7 +12,7 @@ Redone the website, added back the gradient, redid the entire page.
 
 Completely fixed up css, and made the website look more stylish.
 
-# Updaye 1.2 - By William Lawson
+# Update 1.2 - By William Lawson
 Redone the archive page, changed colours and added some css to examples.
 
 Fixed css, tidied up a bit.
