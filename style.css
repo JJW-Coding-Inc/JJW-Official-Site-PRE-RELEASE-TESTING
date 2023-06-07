@@ -29,9 +29,15 @@ main h1 {
     flex-wrap: wrap;
     justify-content: space-around;
 }
-hr {
+.background hr {
     background: #ffffff;
     width: 40%;
+    height: 5px;
+    border-radius: 5px;
+}
+.footer hr {
+    background: #ffffff;
+    width: 20%;
     height: 5px;
     border-radius: 5px;
 }
@@ -136,13 +142,14 @@ hr {
     margin: 0 auto 80px;
     position: relative;
     line-height: 50px;
+    font-size: 30px;
     color: #ffffff;
     padding-bottom: 10px;
 }
 .title::after {
     content: '';
     background: #ffffff;
-    width: 10%;
+    width: 20%;
     height: 5px;
     border-radius: 5px;
     position: absolute;
@@ -214,7 +221,7 @@ hr {
 .about-us-title::after {
     content: '';
     background: #ffffff;
-    width: 80px;
+    width: 10%;
     height: 5px;
     border-radius: 5px;
     position: absolute;
